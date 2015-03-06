@@ -25,7 +25,7 @@ Notepad++ is, arguably, one of the most popular text editors.
 **Notepad++** can be downloaded for free from http://www.notepad-plus-plus.org/.
 
 Sublime Text
-~~~~~~~~~
+~~~~~~~~~~~~
 
 Sublime Text is another great text editor. It is cross platform, so it can be used on the three major operating systems. It also includes features such as macros, color customization, and it's own plugins.
 
